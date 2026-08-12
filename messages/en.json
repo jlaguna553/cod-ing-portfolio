@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "appName": "CodeQuest",
+    "tagline": "Level up by writing real code"
+  },
+  "nav": {
+    "home": "Base",
+    "tracks": "Tracks",
+    "profile": "Profile",
+    "language": "Language",
+    "switchTo": "Switch to {locale}"
+  },
+  "locale": {
+    "es": "Spanish",
+    "en": "English"
+  },
+  "home": {
+    "title": "Pick your track",
+    "subtitle": "Three disciplines. From first contact to technical interview.",
+    "continue": "Pick up where you left off",
+    "start": "Start"
+  },
+  "tracks": {
+    "frontend": {
+      "name": "Frontend",
+      "description": "HTML, CSS, JavaScript, TypeScript, React, Vue and Next.js. From your first div to rendering under load."
+    },
+    "backend": {
+      "name": "Backend & Data",
+      "description": "Node, Python, Go, SQL and API design. Model it, serve it, make it hold up under traffic."
+    },
+    "devops": {
+      "name": "DevOps",
+      "description": "Bash, Linux, Docker, CI/CD, Nginx and Kubernetes. Ship it, then keep it standing."
+    }
+  },
+  "difficulty": {
+    "novice": "Novice",
+    "apprentice": "Apprentice",
+    "adept": "Adept",
+    "expert": "Expert",
+    "interview": "Interview"
+  },
+  "lessonKind": {
+    "concept": "Concept",
+    "drill": "Drill",
+    "challenge": "Challenge",
+    "interview": "Boss",
+    "system-design": "Design"
+  },
+  "hud": {
+    "level": "Level {level}",
+    "xp": "{current} / {next} XP",
+    "energy": "Energy",
+    "combo": "{count}x Combo",
+    "comboSpree": "Coding spree!",
+    "keystrokes": "{count} keystrokes",
+    "sessionTime": "Session: {minutes} min"
+  },
+  "panels": {
+    "files": "Files",
+    "achievements": "Achievements",
+    "guide": "Guide",
+    "hints": "Hints",
+    "tests": "Tests",
+    "output": "Output",
+    "preview": "Preview",
+    "terminal": "Terminal"
+  },
+  "editor": {
+    "run": "Run",
+    "reset": "Reset",
+    "submit": "Check step",
+    "performanceMode": "Performance mode",
+    "performanceModeHint": "Turns off particles and screen shake"
+  },
+  "steps": {
+    "counter": "Step {current} of {total}",
+    "next": "Next",
+    "previous": "Previous",
+    "task": "Your turn",
+    "bestPractice": "Industry standard"
+  },
+  "hints": {
+    "reveal": "Reveal hint",
+    "cost": "Costs {xp} XP",
+    "revealed": "{used} of {total} used",
+    "none": "No hints for this step"
+  },
+  "tests": {
+    "passed": "Passed",
+    "failed": "Failed",
+    "pending": "Pending",
+    "allPassed": "All tests passed!",
+    "runFirst": "Run your code to see results"
+  },
+  "achievements": {
+    "unlocked": "Achievement unlocked!",
+    "progress": "{unlocked} of {total}",
+    "locked": "Locked"
+  },
+  "empty": {
+    "noLesson": "No lesson loaded",
+    "buildingWorld": "Building the world…"
+  },
+  "interview": {
+    "brief": "Interview brief",
+    "constraints": "Constraints",
+    "complexity": "Target complexity",
+    "followUps": "Follow-up questions"
+  },
+  "files": {
+    "modified": "Modified"
+  }
+}
